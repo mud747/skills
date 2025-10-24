@@ -1,8 +1,8 @@
 {
-  "name": "anthropic-agent-skills",
+  "name": "anthropic-agent-skills-fork",
   "owner": {
-    "name": "Keith Lazuka",
-    "email": "klazuka@anthropic.com"
+    "name": "Marco Frank",
+    "email": "mud747@gmail.com"
   },
   "metadata": {
     "description": "Anthropic example skills",
